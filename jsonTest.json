@@ -1,0 +1,19 @@
+[{
+"name": "Caoilfhionn Rose",
+"album": "Truly",
+"year": "2021",
+"LP": "true",
+"tracks": 11,
+"sold out": false,
+"tracklist": ["Flourish", "To Me", "Fireflies","Tubercular Skies"]
+},
+{
+    "name": "Caoilfhionn Rose",
+    "album": "Awaken",
+    "year": "2018",
+    "LP": "true",
+    "tracks": 14,
+    "sold out": true,
+    "tracklist": ["Awaken", "A New Day", "Unravelled","Shadow of Your Smile"]
+    }
+]
